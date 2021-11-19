@@ -8,17 +8,19 @@ I think this is a great course with most of the credit going to [Aarne Ranta](ht
 
 There are four assignments and a report. The report is similar to a take home exam, but divided into four separate parts and deadlines throughout the semester.
 
-In more detail, the assignments, each worth 15%, will cover
+In more detail, the **programming assignments**, each worth 15%, will cover
 - parsing, 
 - typechecking, 
 - interpretation, 
 - compiling to Webassembly.
 
-The report, worth 40%, consists of solutions to exercises on 
+In these assignments an important method of debugging will be to reduce the problematic code to minimal form and then to execute it pen-and-paper. This requires understanding of the relevant algorithms, which are the topic of the the **report**, worth 35%. The report will consist of solutions to selected exercises on 
 - regular expressions and finite automata, 
 - context-free grammars, pushdown automata and LALR-parsing, 
 - type-checking and type-inference,
 - interpretation and operational semantics.
+
+5% of the grade will be for participation.
 
 ## prerequisites
 
