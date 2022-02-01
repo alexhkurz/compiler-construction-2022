@@ -1,7 +1,5 @@
 # Lecture by Lecture  
 
-**Homework** is essential preparation for midterm and final but not graded. Ask any questions on the discussion forum. **Excursions** are optional.
-
 ## Part 1: Lexing, Finite Automata, Regular Expressions
 
 In the first week we find that automata are a good specification language to specify algorithms searching for patterns in text.

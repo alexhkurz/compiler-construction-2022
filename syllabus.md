@@ -61,9 +61,8 @@ If you need more time for an assignment that may be possible if
 
 ## Participation
 
-- It is expected that students attend every lecture and participate in the [Discussion Forum](https://groups.google.com/g/chapman-compiler-construction-2021). 
-- I also appreciate if students make use of the office hours, which gives me valuable feedback on how the class is going.
-- Participation will contribute 4% to the final course grade, see [Assessment](assessment.md).
+- I appreciate it if students make use of the office hours (this also gives me valuable feedback on how the class is going).
+- Participation will contribute 5% to the final course grade, see [Assessment](assessment.md).
 
 ## Exams
 See [Assessment](assessment.md). 
