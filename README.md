@@ -20,6 +20,8 @@ In these assignments an important method of debugging will be to reduce the prob
 - type-checking and type-inference,
 - interpretation and operational semantics.
 
+Template files for the report are [here](https://github.com/alexhkurz/compiler-construction-2022/tree/main/report).
+
 **Part 2 of the report**, worth 15%, will be a project in which you choose a language (such as C) and a compiler (such as gcc) and compile example programs to assembly and explain in some detail
 - how the compilation works and 
 - how the assembly program is executed on the machine.
