@@ -4,7 +4,7 @@
 
 In the first week we find that automata are a good specification language to specify algorithms searching for patterns in text.
 
-- L1.1: [Searching for Strings](https://hackmd.io/@alexhkurz/Sk555wUlu). Don't forget the [Homework](https://hackmd.io/@alexhkurz/rycnvMvgu). You may also look at my [Introduction to Automata and Haskell](https://hackmd.io/@alexhkurz/HylLKujCP) which shows you how to implement automata in Haskell. I also have a note on how to implement automata in languages without goto, see my excursion on [*Why do Java and Python not have goto statements?*](https://hackmd.io/@alexhkurz/rJ5wS-0f8).
+- L1.1: [Searching for Strings](https://hackmd.io/@alexhkurz/Sk555wUlu). Don't forget the [Homework](https://hackmd.io/@alexhkurz/rycnvMvgu). You may also look at my [Introduction to Automata and Haskell](https://hackmd.io/@alexhkurz/HylLKujCP) which shows you how to implement automata in Haskell. I also have a note on how to implement automata in imperative languages with and without goto, see my excursion on [*Why do Java and Python not have goto statements?*](https://hackmd.io/@alexhkurz/rJ5wS-0f8).
 
 <!--
 - L1.2: Answers to homework questions. [Introduction to Automata and Haskell](https://hackmd.io/@alexhkurz/HylLKujCP). Excursion on [*Why do Java and Python not have goto statements?*](https://hackmd.io/@alexhkurz/rJ5wS-0f8) Practice what you have learned with this important [Homework](homework-1.2.md).
