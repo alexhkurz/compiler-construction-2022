@@ -6,11 +6,11 @@
 
 In the first week we find that automata are a good specification language to specify algorithms searching for patterns in text.
 
-- L1.1: [Searching for Strings](https://hackmd.io/@alexhkurz/Sk555wUlu). Don't forget the [Homework](https://hackmd.io/@alexhkurz/rycnvMvgu). **Excursions:** [*Introduction to Automata and Haskell*](https://hackmd.io/@alexhkurz/HylLKujCP), which shows  how to implement automata in Haskell. [*Why do Java and Python not have goto statements?*](https://hackmd.io/@alexhkurz/rJ5wS-0f8), which shows how to implement automata in imperative languages with and without goto.
+- L1.1: [Searching for Strings](https://hackmd.io/@alexhkurz/Sk555wUlu). Don't forget the [Homework](https://hackmd.io/@alexhkurz/rycnvMvgu). **Excursion:** [*Why do Java and Python not have goto statements?*](https://hackmd.io/@alexhkurz/rJ5wS-0f8), which shows how to implement automata in imperative languages with and without goto.
+
+- L1.2: [Introduction to Automata and Haskell](https://hackmd.io/@alexhkurz/HylLKujCP). Practice what you have learned with this [Homework](homework-1.2.md).
 
 <!--
-- L1.2: Answers to homework questions. [Introduction to Automata and Haskell](https://hackmd.io/@alexhkurz/HylLKujCP). Excursion on [*Why do Java and Python not have goto statements?*](https://hackmd.io/@alexhkurz/rJ5wS-0f8) Practice what you have learned with this important [Homework](homework-1.2.md).
-
 In the second week we go one level up, from automata as a specification language for search algorithms to regular expressions as a specification language for automata (and languages).
 
 - L2.1: [Composing Automata (with Homework)](https://hackmd.io/@alexhkurz/ryV_FU7XI) ... [Handwritten notes from the lecture](Sources/Notes-from-the-lecture-Composing-Automata.pdf) ... 
