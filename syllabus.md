@@ -4,7 +4,7 @@
 - Class: CPSC 402 Compiler Construction 
 - Instructor: [Alexander Kurz](https://alexhkurz.github.io/)  
 - Lectures: TuTh 10:00-11:15, TuTh 11:30-12:45 (first week online, in Keck 156 once we move to classroom teaching) 
-- Office Hours: TuTh 14-16 on zoom (subject to change)
+- Office Hours: TuTh 13:00-14:30 on zoom (subject to change)
 
 ## Course Description 
 

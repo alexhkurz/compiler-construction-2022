@@ -14,13 +14,13 @@ In more detail, the **programming assignments**, each worth 15%, will cover
 - interpretation, 
 - compiling to Webassembly.
 
-In these assignments an important method of debugging will be to reduce the problematic code to minimal form and then to execute it pen-and-paper. This requires understanding of the relevant algorithms, which are the topic of **part 1 of the report**, worth 20%, which will consist of solutions to selected exercises on 
+In these assignments an important method of debugging will be to reduce the problematic code to minimal form and then to execute it pen-and-paper. This requires understanding of the relevant algorithms, which are the topic of **part 1 of the report**, worth 20% (half of it for completion in time for the weekly deadline, half of it for correctness at the end of term), which will consist of solutions to selected exercises on 
 - regular expressions and finite automata, 
 - context-free grammars, pushdown automata and LALR-parsing, 
 - type-checking and type-inference,
 - interpretation and operational semantics.
 
-Template files for the report are [here](https://github.com/alexhkurz/compiler-construction-2022/tree/main/report).
+An example LaTeX file for the report is [here](https://github.com/alexhkurz/compiler-construction-2022/tree/main/report). 
 
 **Part 2 of the report**, worth 15%, will be a project in which you choose a language (such as C) and a compiler (such as gcc) and compile example programs to assembly and explain in some detail
 - how the compilation works and 
