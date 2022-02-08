@@ -10,11 +10,12 @@ In the first week we find that automata are a good specification language to spe
 
 - L1.2: [Introduction to Automata and Haskell](https://hackmd.io/@alexhkurz/HylLKujCP). Practice what you have learned with this [Homework](homework-1.2.md).
 
-<!--
+
 In the second week we go one level up, from automata as a specification language for search algorithms to regular expressions as a specification language for automata (and languages).
 
-- L2.1: [Composing Automata (with Homework)](https://hackmd.io/@alexhkurz/ryV_FU7XI) ... [Handwritten notes from the lecture](Sources/Notes-from-the-lecture-Composing-Automata.pdf) ... 
+- L2.1: [Composing Automata (with Homework)](https://hackmd.io/@alexhkurz/ryV_FU7XI).
 
+<!--
 - L2.2: [Regular Expressions](https://hackmd.io/@alexhkurz/HkoNj8mmU) ... [Handwritten notes from the lecture](Sources/Notes-from-lecture-2.2.pdf) ... [Homework](https://hackmd.io/@alexhkurz/S1EVYe7bO) ...  
 
 In the third week, we learn how to convert regular expressions to NFA and NFA to DFA.
