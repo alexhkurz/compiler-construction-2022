@@ -2,6 +2,10 @@
 
 *Excursions* are not part of the core of this course but recommended for general background.
 
+**Useful Links:**
+- [Finite State Machine Designer](https://www.cs.unc.edu/~otternes/comp455/fsm_designer/)  
+- [RegExp Visualiser](https://www.youtube.com/watch?v=ImnZRGCwBrY)  
+
 ## Part 1: Lexing, Finite Automata, Regular Expressions
 
 In the first week we find that automata are a good specification language to specify algorithms searching for patterns in text.
