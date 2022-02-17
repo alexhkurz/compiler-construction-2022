@@ -14,7 +14,6 @@ In the first week we find that automata are a good specification language to spe
 
 - L1.2: [Introduction to Automata and Haskell](https://hackmd.io/@alexhkurz/HylLKujCP). Practice what you have learned with this [Homework](homework-1.2.md).
 
-
 In the second week we go one level up, from automata as a specification language for search algorithms to regular expressions as a specification language for automata (and languages).
 
 - L2.1: [Composing Automata (with Homework)](https://hackmd.io/@alexhkurz/ryV_FU7XI).
@@ -24,6 +23,8 @@ In the second week we go one level up, from automata as a specification language
 - L3.1: We reviewed the NFAs and regular expressions for the languages of Exercises 2.3.4 and 2.5.3.  We looked at the conversion of NFA to DFA in the [Introduction to Automata and Haskell](https://hackmd.io/@alexhkurz/HylLKujCP). See the highlighted assessed homework in there.
 
 <!--  homework from previous years at https://hackmd.io/@alexhkurz/HJ1BAFYbd -->
+
+- L3.2: More on "NFA to DFA" and  on monads in Haskell.
 
 <!--
 - L.3.2: Continued from [Regular Expressions](https://hackmd.io/@alexhkurz/HkoNj8mmU). We first reviewed the [homework](https://hackmd.io/@alexhkurz/HJ1BAFYbd) and looked at the Haskell implementation of the conversion from NFA to DFA from the [Introduction to Automata and Haskell](https://hackmd.io/@alexhkurz/HylLKujCP). Then we reviewed Exercise 2.5.3.a from the homework of [Composing Automata](https://hackmd.io/@alexhkurz/ryV_FU7XI). Most importantly, we learned an algorithm of how to eliminate epsilon-transitions. For practice questions see the [homework](https://hackmd.io/@alexhkurz/Sy8EDt3Wu). 
