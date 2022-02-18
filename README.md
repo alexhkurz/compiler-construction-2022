@@ -38,11 +38,11 @@ We build on the Programming Languages course.
 
     Many of the topics of his talk showed up in class. For example, we use reg exps as specifications of NFAs and NFAs as specifications for DFAs and DFAs as specifications for code. Another one is that formal specifications are needed if you want to use tools (we have seen a bit of this with BNFC last semester).
 
-    Lamport is famous for many things, not only TLA (which appears in the talk). Here is a presentation on Byantine Agreement https://www.cs.cornell.edu/courses/cs6410/2018fa/slides/18-distributed-systems-byzantine-agreement.pdf (Links to an external site.) which is one of the important ideas in the prehistory of bitcoin. Oh, and by the way, the La in LaTeX refers to him.
+    Lamport is famous for many things, not only TLA (which appears in the talk). Here is a presentation on [Byantine Agreement](https://www.cs.cornell.edu/courses/cs6410/2018fa/slides/18-distributed-systems-byzantine-agreement.pdf) which is one of the important ideas in the prehistory of bitcoin. Oh, and by the way, the La in LaTeX refers to him.
 
     He also has some catchy quotes in the talk, eg:
 
-    , "Everyone thinks they think. But if you don't write down your thoughts you are fooling yourself. (Leslie Lamport)"
-    , "You should think before you code. A spec is simply what you write before coding. (Leslie Lamport)"
-    , "Thinking is hard. It is easier to think you are thinking. (Leslie Lamport)"
-    , "If you don't start with a spec every piece of code your write is a patch. (Leslie Lamport)"])
+    "Everyone thinks they think. But if you don't write down your thoughts you are fooling yourself."  
+    "You should think before you code. A spec is simply what you write before coding."  
+    "Thinking is hard. It is easier to think you are thinking."  
+    "If you don't start with a spec every piece of code your write is a patch."  
