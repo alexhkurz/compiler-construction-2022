@@ -45,4 +45,4 @@ We build on the Programming Languages course.
     "Everyone thinks they think. But if you don't write down your thoughts you are fooling yourself."  
     "You should think before you code. A spec is simply what you write before coding."  
     "Thinking is hard. It is easier to think you are thinking."  
-    "If you don't start with a spec every piece of code your write is a patch."  
+    "If you don't start with a spec every piece of code you write is a patch."  
