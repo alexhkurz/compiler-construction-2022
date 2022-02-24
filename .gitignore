@@ -20,3 +20,4 @@ local/
 ChangeLog.md
 *.o
 nfa2dfa/
+*copy
