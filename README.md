@@ -34,6 +34,8 @@ We build on the Programming Languages course.
 
 ## Discussion Topics
 
+- MIT: [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/2020/course-shell/) contains a lot of topics that also show up in this course. The first one is about using the shell (paths, etc). I will post more details once I watched the videos myself. In the meanwhile, all comments welcome. 
+
 - Leslie Lamport on [Specifications](https://www.programmingtalks.org/talk/thinking-above-the-code)
 
     Many of the topics of his talk showed up in class. For example, we use reg exps as specifications of NFAs and NFAs as specifications for DFAs and DFAs as specifications for code. Another one is that formal specifications are needed if you want to use tools (we have seen a bit of this with BNFC last semester).
