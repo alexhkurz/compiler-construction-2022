@@ -30,7 +30,7 @@ An example LaTeX file for the report is [here](https://github.com/alexhkurz/comp
 
 ## Prerequisites
 
-We build on the Programming Languages course. 
+We build on the Programming Languages course. In particular, Haskell is a prerequisite. 3 of the 4 assignments will be solved by writing Haskell code that works by recursion over algebraic data types.
 
 ## Discussion Topics
 

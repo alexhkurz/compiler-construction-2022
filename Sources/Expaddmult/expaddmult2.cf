@@ -1,0 +1,3 @@
+    EAdd. Exp  ::= Exp  "+" Exp1 ;
+    EMul. Exp1 ::= Exp1 "*" Exp2 ;
+    EInt. Exp2 ::= Integer ;
