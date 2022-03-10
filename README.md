@@ -1,5 +1,9 @@
 # compiler-construction-2022
 
+## Quick Links
+
+[Lecture by Lecture](https://github.com/alexhkurz/compiler-construction-2022/blob/main/lecture-by-lecture.md)  
+
 ## Overview
 
 In this course we build a compiler for a substantial fragment of C++, covering all stages from writing a grammar, via typechecking and interpretation to code generation.
