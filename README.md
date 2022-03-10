@@ -3,8 +3,8 @@
 ## Quick Links
 
 - [Lecture by Lecture](https://github.com/alexhkurz/compiler-construction-2022/blob/main/lecture-by-lecture.md)  
-- [Introduction to Automata Theory, Languages, and Computation](http://ce.sharif.edu/courses/94-95/1/ce414-2/resources/root/Text%20Books/Automata/John%20E.%20Hopcroft,%20Rajeev%20Motwani,%20Jeffrey%20D.%20Ullman-Introduction%20to%20Automata%20Theory,%20Languages,%20and%20Computations-Prentice%20Hall%20%282006%29.pdf)
-- [Implementing Programming Languages](http://www.cse.chalmers.se/edu/year/2012/course/DAT150/lectures/plt-book.pdf)
+- [Introduction to Automata Theory, Languages, and Computation](http://ce.sharif.edu/courses/94-95/1/ce414-2/resources/root/Text%20Books/Automata/John%20E.%20Hopcroft,%20Rajeev%20Motwani,%20Jeffrey%20D.%20Ullman-Introduction%20to%20Automata%20Theory,%20Languages,%20and%20Computations-Prentice%20Hall%20%282006%29.pdf)  
+- [Implementing Programming Languages](http://www.cse.chalmers.se/edu/year/2012/course/DAT150/lectures/plt-book.pdf)  
 - [Syllabus](https://github.com/alexhkurz/compiler-construction-2022/blob/main/syllabus.md)  
 
 ## Overview
@@ -40,6 +40,8 @@ An example LaTeX file for the report is [here](https://github.com/alexhkurz/comp
 We build on the Programming Languages course. In particular, Haskell is a prerequisite. 3 of the 4 assignments will be solved by writing Haskell code that works by recursion over algebraic data types.
 
 ## Discussion Topics
+
+- [Pandoc](https://en.wikipedia.org/wiki/Pandoc) is a universal [document converter](https://pandoc.org/try/). For example, one can use it to [convert markdown to latex](https://gist.github.com/DannyQuah/04b46cd583f0e87cea7b5009adfb9c5d). Behind the scenes, pandoc is an application of parsing, ASTs and linearization, quoting from the [Pandoc API documentation](https://hackage.haskell.org/package/pandoc): "Pandoc has a modular design: it consists of a set of readers, which parse text in a given format and produce a native representation of the document (an abstract syntax tree or AST), and a set of writers, which convert this native representation into a target format. Thus, adding an input or output format requires only adding a reader or writer."
 
 - MIT: [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/2020/course-shell/) contains a lot of topics that also show up in this course. The first one is about using the shell (paths, etc). I will post more details once I watched the videos myself. In the meanwhile, all comments welcome. 
 
