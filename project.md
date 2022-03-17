@@ -14,7 +14,7 @@ Choose a programming language (such as C) and a compiler (such as gcc) and compi
 - how the compilation works and 
 - how the assembly program is executed on the machine.
 
-For the first deadline, you need to have made a choice of programming language and compiler and show me a program in the source language and the target language (assembly, JVM, ...) that you want to explain.
+For the first deadline, you need to have made a choice of programming language and compiler and show me a program in the source language (C, Java, ...) and the target language (assembly, JVM, ...) that you want to explain. (What about Python?)
 
 ## Project: Creating Your Own Programming Language
 
