@@ -59,6 +59,8 @@ For us there is another one, namely that type checking can be seen as "interpret
 
 - L7.1: We started with some remarks on the [the project](project.md). Then we looked at the template file for the type checker available on Canvas. We also covered Sections 4.4-4.5 of the book. 
 
+- L7.2: Sections 4.6-4.8 from the book. Read these sections carefully and prepare questions for the next lecture. (Sections 4.9-4.11 are optional as this has been implemented in the template files.)
+
 
 <!-- CAREFUL: BELOW IS FROM 2021 ... SUBJECT TO CHANGE 
 - L7.2: [Assignment 2](https://github.com/ChapmanCPSC/compiler-assignments/blob/master/Typechecker/). Read Chapter 4.4 to 4.6 of [IPL](http://www.cse.chalmers.se/edu/year/2012/course/DAT150/lectures/plt-book.pdf).
