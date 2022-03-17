@@ -6,6 +6,7 @@
 - [Introduction to Automata Theory, Languages, and Computation](http://ce.sharif.edu/courses/94-95/1/ce414-2/resources/root/Text%20Books/Automata/John%20E.%20Hopcroft,%20Rajeev%20Motwani,%20Jeffrey%20D.%20Ullman-Introduction%20to%20Automata%20Theory,%20Languages,%20and%20Computations-Prentice%20Hall%20%282006%29.pdf)  
 - [Implementing Programming Languages](http://www.cse.chalmers.se/edu/year/2012/course/DAT150/lectures/plt-book.pdf)  
 - [Syllabus](https://github.com/alexhkurz/compiler-construction-2022/blob/main/syllabus.md)  
+- [The Project](project.md)  
 
 ## Overview
 

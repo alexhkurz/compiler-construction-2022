@@ -57,6 +57,8 @@ For us there is another one, namely that type checking can be seen as "interpret
 
 - L6.2:  Working towards Assignment 2, the [Type Checker for CPP](http://www.grammaticalframework.org/ipl-book/assignments/assignment2/assignment2.html) (a template file and detailed instructions will be in Canvas). For the theory, the main source is Chapter 4 of the book. *Homework:* Read Chapter 4.1 to 4.3 of [IPL](http://www.cse.chalmers.se/edu/year/2012/course/DAT150/lectures/plt-book.pdf). 
 
+- L7.1: We started with some remarks on the [the project](project.md). Then we looked at the template file for the type checker available on Canvas. We also covered Sections 4.4-4.5 of the book. 
+
 
 <!-- CAREFUL: BELOW IS FROM 2021 ... SUBJECT TO CHANGE 
 - L7.2: [Assignment 2](https://github.com/ChapmanCPSC/compiler-assignments/blob/master/Typechecker/). Read Chapter 4.4 to 4.6 of [IPL](http://www.cse.chalmers.se/edu/year/2012/course/DAT150/lectures/plt-book.pdf).
