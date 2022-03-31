@@ -61,6 +61,8 @@ For us there is another one, namely that type checking can be seen as "interpret
 
 - L7.2: Sections 4.6-4.8 from the book. Read these sections carefully and prepare questions for the next lecture. (Sections 4.9-4.11 are optional as this has been implemented in the template files.)
 
+- L8.1: We went through what needs to be done for the First Deadline **(Thu, Mar 31)** for Assignment 2. As I said, feel free to use github copilot. Second Deadline will be **(Fri, April 8)**.
+
 
 <!-- CAREFUL: BELOW IS FROM 2021 ... SUBJECT TO CHANGE 
 - L7.2: [Assignment 2](https://github.com/ChapmanCPSC/compiler-assignments/blob/master/Typechecker/). Read Chapter 4.4 to 4.6 of [IPL](http://www.cse.chalmers.se/edu/year/2012/course/DAT150/lectures/plt-book.pdf).
