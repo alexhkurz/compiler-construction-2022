@@ -63,6 +63,8 @@ For us there is another one, namely that type checking can be seen as "interpret
 
 - L8.1: We went through what needs to be done for the First Deadline **(Thu, Mar 31)** for Assignment 2. As I said, feel free to use github copilot. Second Deadline will be **(Fri, April 8)**.
 
+- L8.2: Special session with Sam Balco.
+
 
 <!-- CAREFUL: BELOW IS FROM 2021 ... SUBJECT TO CHANGE 
 - L7.2: [Assignment 2](https://github.com/ChapmanCPSC/compiler-assignments/blob/master/Typechecker/). Read Chapter 4.4 to 4.6 of [IPL](http://www.cse.chalmers.se/edu/year/2012/course/DAT150/lectures/plt-book.pdf).
