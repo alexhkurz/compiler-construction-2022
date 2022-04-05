@@ -42,6 +42,7 @@ We build on the Programming Languages course. In particular, Haskell is a prereq
 
 ## Discussion Topics
 
+- [Interfaces - The Most Important Software Engineering Concept](https://blog.robertelder.org/interfaces-most-important-software-engineering-concept/) ... abstraction leaks, side-channel attacks, leaky vs specific interfaces, technical debt, Why do People Still Use the Command Line?, Why is Python So Popular?, Why is Enterprise Software Usually Java/C++?
 - [Pandoc](https://en.wikipedia.org/wiki/Pandoc) is a universal [document converter](https://pandoc.org/try/). For example, one can use it to [convert markdown to latex](https://gist.github.com/DannyQuah/04b46cd583f0e87cea7b5009adfb9c5d). Behind the scenes, pandoc is an application of parsing, ASTs and linearization, quoting from the [Pandoc API documentation](https://hackage.haskell.org/package/pandoc): "Pandoc has a modular design: it consists of a set of readers, which parse text in a given format and produce a native representation of the document (an abstract syntax tree or AST), and a set of writers, which convert this native representation into a target format. Thus, adding an input or output format requires only adding a reader or writer."
 
 - MIT: [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/2020/course-shell/) contains a lot of topics that also show up in this course. The first one is about using the shell (paths, etc). I will post more details once I watched the videos myself. In the meanwhile, all comments welcome. 
