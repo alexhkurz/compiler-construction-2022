@@ -67,7 +67,7 @@ For us there is another one, namely that type checking can be seen as "interpret
 
 ## Part 4: Interpretation
 
-- L9.1: Chapter 5 of [IPL](http://www.cse.chalmers.se/edu/year/2012/course/DAT150/lectures/plt-book.pdf). 
+- L9.1: Chapter 5 of [IPL](http://www.cse.chalmers.se/edu/year/2012/course/DAT150/lectures/plt-book.pdf). Homework: Read Sections 5.1-2.
 
 
 <!-- CAREFUL: BELOW IS FROM 2021 ... SUBJECT TO CHANGE 
