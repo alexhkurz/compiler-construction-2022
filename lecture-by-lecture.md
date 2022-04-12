@@ -71,9 +71,9 @@ For us there is another one, namely that type checking can be seen as "interpret
 
 - L9.2: Continued with Chapter 5. Assessed [homework for the report](https://hackmd.io/@alexhkurz/SkZELd3X5). Homework until next lecture: Read Chapter 5.3.
 
-coming up: 
+<!--coming up: 
 
-- L10.1: Continued with Chapter 5. A [note](https://hackmd.io/@alexhkurz/rkGNCFnmq) on the operational semantics of function call. 
+- L10.1: Continued with Chapter 5. A [note](https://hackmd.io/@alexhkurz/rkGNCFnmq) on the operational semantics of function call.--> 
 
 <!-- CAREFUL: BELOW IS FROM 2021 ... SUBJECT TO CHANGE 
 - L7.2: [Assignment 2](https://github.com/ChapmanCPSC/compiler-assignments/blob/master/Typechecker/). Read Chapter 4.4 to 4.6 of [IPL](http://www.cse.chalmers.se/edu/year/2012/course/DAT150/lectures/plt-book.pdf).
