@@ -69,7 +69,12 @@ For us there is another one, namely that type checking can be seen as "interpret
 
 - L9.1: Chapter 5 of [IPL](http://www.cse.chalmers.se/edu/year/2012/course/DAT150/lectures/plt-book.pdf). Homework until Thursday: Read Sections 5.1-2.
 
-- L9.2: Continued with Chapter 5. Assessed [homework for the report](https://hackmd.io/@alexhkurz/SkZELd3X5). Homework until next lecture: Read Chapter 5.3.
+- L9.2: Continued with Chapter 5. Assessed [homework for the report](https://hackmd.io/@alexhkurz/SkZELd3X5), see also Lecture 10.1. Homework until next lecture: Read Chapter 5.3.
+
+- **Assignment 3** out. Instructions and template files are on Canvas. First deadline April 17, second deadline April 24.
+
+- L10.1: In the lecture we looked in detail at an example of how the interpreter executes, see [here](Sources/prooftree-interpreter.jpg) and [here](Sources/prooftree-typechecker.jpg) for the typechecking of the same example. The pictures have some slight differences to what we have done in the lecture, so get in touch if you have any questions.
+
 
 <!--coming up: 
 
