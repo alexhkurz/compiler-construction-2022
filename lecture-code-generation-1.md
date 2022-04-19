@@ -67,7 +67,7 @@ Run
 
     node wat2wasm.js fibonacci.wat
 
-This should create a file `fibonacci.wasm`.
+This should create a file `fibonacci.wasm` (which is in binary).
 
 ### Run Wasm files
 
@@ -85,12 +85,12 @@ To test whether the translation `fibonacci.wat` has the same observable behaviou
 
 #### Run the C++ program
 
-- add the header `#include "env.h"` to `fibonnaci.cc`
+- add the header `#include "env.h"` to `fibonacci.cc`
 - make sure you have `env.h`, see [here](Compiler-Assignment-Intro/env.h)
 - observe the behaviour of the C++ program:
 
       gcc fibonacci.cc -o fibonacci
-      ./fibonnacci
+      ./fibonacci
 
 #### Run the Wat program
 

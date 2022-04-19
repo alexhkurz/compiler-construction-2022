@@ -75,6 +75,12 @@ For us there is another one, namely that type checking can be seen as "interpret
 
 - L10.1: In the lecture we looked in detail at an example of how the [interpreter executes](Sources/prooftree-interpreter.jpg) (see [here](Sources/prooftree-typechecker.jpg) for the typechecking of the same example). The pictures have some slight differences to what we have done in the lecture, so get in touch if you have any questions.
 
+- L10.2: We worked on the interpreter assignment in class.
+
+## Part 5: Code Generation
+
+- L11.1: We started working on [Webassembly](https://github.com/alexhkurz/compiler-construction-2022/blob/main/lecture-code-generation-1.md), the target language for our compiler. Homework: Install the required software as specified and verify that you can run webassembly locally.
+
 
 <!--coming up: 
 
