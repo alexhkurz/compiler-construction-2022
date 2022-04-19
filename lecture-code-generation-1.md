@@ -230,7 +230,7 @@ and the compiled Webassembly program
      (export "main" (func $main))
     )
 
-**Activity:** Make a table matching the C++ program and the WAT program line by line. ([Answer](Compiler-Assignment-Intro/fibonacci.md).)
+**Activity:** Make a table matching the C++ program and the WAT program line by line. <!--([Answer](Compiler-Assignment-Intro/fibonacci.md).)-->
 
 **Exercise:** Translate to Wat the program [ass_in_arith-short.cc](Compiler-Assignment-Intro/ass_in_arith-short.cc):
 
