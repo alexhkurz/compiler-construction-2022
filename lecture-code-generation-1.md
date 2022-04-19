@@ -151,8 +151,7 @@ JS:
     const { test } = wasmInstance.exports;
     console.log(test());
 
-
-
+**Exercise:** Change the values in the WAT program and observe the different outputs in the lower right window.
 
 ## Translate C++ to Wat
 
