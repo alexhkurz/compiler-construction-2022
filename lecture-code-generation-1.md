@@ -242,7 +242,7 @@ and the compiled Webassembly program
       return 0;
     }
 
-Test your `ass_in_arith-short.wat` as described [above](lecture-12.1.md#test-webassembly-code-against-c).
+Test your `ass_in_arith-short.wat` as described [above](lecture-code-generation-1.md#test-webassembly-code-against-c).
 
 ## References
 
