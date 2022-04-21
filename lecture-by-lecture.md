@@ -82,5 +82,5 @@ For us there is another one, namely that type checking can be seen as "interpret
 
 - L11.1: We started working on [Webassembly](https://github.com/alexhkurz/compiler-construction-2022/blob/main/lecture-code-generation-1.md), the target language for our compiler. Homework: Install the required software as specified and verify that you can run webassembly locally. Do the exercise on `ass_in_arith-short.cc`.
 
-- L 11.2: [Compiling C++ to WASM 2](https://github.com/alexhkurz/compiler-construction-2021/blob/master/lecture-12.2.md).
+- L 11.2: [Compiling C to WASM pen-and-paper](https://github.com/alexhkurz/compiler-construction-2022/blob/master/lecture-code-generation-2.md).
 
