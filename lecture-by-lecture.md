@@ -73,7 +73,8 @@ For us there is another one, namely that type checking can be seen as "interpret
 
 - **Assignment 3** out. Instructions and template files are on Canvas. First deadline April 17, second deadline April 24.
 
-- L10.1: In the lecture we looked in detail at an example of how the [interpreter executes](Sources/prooftree-interpreter.jpg) (see [here](Sources/prooftree-typechecker.jpg) for the typechecking of the same example). The pictures have some slight differences to what we have done in the lecture, so get in touch if you have any questions.
+- L10.1: In the lecture we looked in detail at an example of how the [interpreter executes](Sources/prooftree-interpreter.jpg) (see [here](Sources/prooftree-typechecker.jpg) for the typechecking of the same example). The pictures have some slight differences to what we have done in the lecture, so get in touch if you have any questions. <!--A [note](https://hackmd.io/@alexhkurz/rkGNCFnmq) on the operational semantics of function call.--> 
+
 
 - L10.2: We worked on the interpreter assignment in class.
 
@@ -81,45 +82,5 @@ For us there is another one, namely that type checking can be seen as "interpret
 
 - L11.1: We started working on [Webassembly](https://github.com/alexhkurz/compiler-construction-2022/blob/main/lecture-code-generation-1.md), the target language for our compiler. Homework: Install the required software as specified and verify that you can run webassembly locally. Do the exercise on `ass_in_arith-short.cc`.
 
-
-<!--coming up: 
-
-- L10.1: Continued with Chapter 5. A [note](https://hackmd.io/@alexhkurz/rkGNCFnmq) on the operational semantics of function call.--> 
-
-<!-- CAREFUL: BELOW IS FROM 2021 ... SUBJECT TO CHANGE 
-- L7.2: [Assignment 2](https://github.com/ChapmanCPSC/compiler-assignments/blob/master/Typechecker/). Read Chapter 4.4 to 4.6 of [IPL](http://www.cse.chalmers.se/edu/year/2012/course/DAT150/lectures/plt-book.pdf).
-
-- L9.1 and 9.2: Back to the typechecker. Read Chapter 4.8 of [IPL](http://www.cse.chalmers.se/edu/year/2012/course/DAT150/lectures/plt-book.pdf).
-
-## Part 4: Interpreter
-
-- L10.1: Interpreter and Operational Semantics. Read Chapters 5.1 and 5.2 of [IPL](http://www.cse.chalmers.se/edu/year/2012/course/DAT150/lectures/plt-book.pdf).
-
-- L10.2: Starting [Assignment 3](https://github.com/ChapmanCPSC/compiler-assignments/blob/master/Interpreter/README.md) on the Interpreter.
-
-- L11.1: Read Chapter 5.3 of the book.
-
-- L11.2: Read Chapter 5.4 and 5.5 of the book. [Homework](https://hackmd.io/@alexhkurz/S1wmI_yPO).
-
-- L12.1: Seminar announcement ... Discussion Midterm ... JVM, [IPL](http://www.cse.chalmers.se/edu/year/2012/course/DAT150/lectures/plt-book.pdf), [Slides Chapter 5](https://github.com/alexhkurz/compiler-construction-2021/blob/master/Sources/5-slides-ipl-book.pdf)
-
-## Part 5: Code Generation
-
-[Assignment 4](https://github.com/ChapmanCPSC/compiler-assignments/blob/master/Compiler/README.md).
-
-- L 12.2: [Compiling C++ to WASM](https://github.com/alexhkurz/compiler-construction-2021/blob/master/lecture-12.1.md).
-
-- L 13.1: [Compiling C++ to WASM 2](https://github.com/alexhkurz/compiler-construction-2021/blob/master/lecture-12.2.md).
-
-- L 13.2, 14.1: Continuing with Assignment  4.
-
-- 14.2: **Take some time to fill in the questionnaire.** Review for final. There will be three topics, parsing, typechecking, interpretation. Parsing will be similar to the midterm (but do not forget the concrete syntax trees). The question on typechecking will be based on Chapter 4.5 of [IPL](http://www.cse.chalmers.se/edu/year/2012/course/DAT150/lectures/plt-book.pdf). The question on interpretation will be based on Chapters 5.1 to 5.3. To get an idea of the type of questions, look at the [Practice Test](https://github.com/alexhkurz/compiler-construction-2021/blob/master/Sources/practice-test-3-4.pdf). I will post solutions but first try without looking at the [answers](https://github.com/alexhkurz/compiler-construction-2021/blob/master/Sources/Answers/practice-test-3-4/README.md).
-
-- **Office Hours:** Monday 12 noon: I will answer last questions about the exam.
-
-- **Final Exam:** Tuesday 8am until 11:59pm. I will send out a link to the exam just before 8am on Canvas and the discussion forum.
-
----
-
-**Midterm:** First Thursday after Spring Break, Thursday April 1, in class. **Practice test:** [Automata](https://github.com/alexhkurz/compiler-construction-2021/blob/master/Sources/practice-test-1-dfas.pdf), [Grammar](https://github.com/alexhkurz/compiler-construction-2021/blob/master/Sources/practice-test-2.md). If you want to check your solution send it to me via email. [Solution](https://github.com/alexhkurz/compiler-construction-2021/blob/master/Sources/Notes-from-the-lecture-on-practice-midterm.pdf). See also the recordings of the Tuesday lecture. Solutions: [Midterm-Morning](https://github.com/alexhkurz/compiler-construction-2021/blob/master/Sources/Midterm-Morning-Solutions.pdf), [Midterm-Afternoon](https://github.com/alexhkurz/compiler-construction-2021/blob/master/Sources/Midterm-Afternoon-Solutions.pdf), [Shift-Reduce-Parsing](https://hackmd.io/@alexhkurz/Sys8OPQUO).
+- L 11.2: [Compiling C++ to WASM 2](https://github.com/alexhkurz/compiler-construction-2021/blob/master/lecture-12.2.md).
 
