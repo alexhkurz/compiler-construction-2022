@@ -21,3 +21,4 @@ ChangeLog.md
 *.o
 nfa2dfa/
 *copy
+node_modules/

@@ -80,7 +80,9 @@ For us there is another one, namely that type checking can be seen as "interpret
 
 ## Part 5: Code Generation
 
-- L11.1: We started working on [Webassembly](https://github.com/alexhkurz/compiler-construction-2022/blob/main/lecture-code-generation-1.md), the target language for our compiler. Homework: Install the required software as specified and verify that you can run webassembly locally. Do the exercise on `ass_in_arith-short.cc`.
+- L11.1: [Introduction to Webassembly](https://github.com/alexhkurz/compiler-construction-2022/blob/main/lecture-code-generation-1.md), the target language for our compiler. Homework: Install the required software as specified and verify that you can run webassembly locally. Do the exercise on `ass_in_arith-short.cc`.
 
 - L 11.2: [Compiling C to Webassembly pen-and-paper](https://github.com/alexhkurz/compiler-construction-2022/blob/master/lecture-code-generation-2.md).
+
+- L 12.1: Assignment 4 is on Canvas. <font color=red>**Deadline Friday, May 6**</font>. We will start working on the assignment in class today.
 
