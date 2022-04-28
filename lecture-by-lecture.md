@@ -86,5 +86,5 @@ For us there is another one, namely that type checking can be seen as "interpret
 
 - L 12.1: Assignment 4 is on Canvas. <font color=red>**Deadline Friday, May 6**</font>. We will start working on the assignment in class today.
 
-- L 13.1: Lab on the assignment. Instructions for [using Docker](https://hackmd.io/@alexhkurz/rkUkHeHrc).
+- L 12.2: Lab on the assignment. Instructions for [using Docker](https://hackmd.io/@alexhkurz/rkUkHeHrc).
 
