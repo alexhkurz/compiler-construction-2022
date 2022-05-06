@@ -84,7 +84,15 @@ For us there is another one, namely that type checking can be seen as "interpret
 
 - L 11.2: [Compiling C to Webassembly pen-and-paper](https://github.com/alexhkurz/compiler-construction-2022/blob/master/lecture-code-generation-2.md).
 
-- L 12.1: Assignment 4 is on Canvas. <font color=red>**Deadline Friday, May 6**</font>. We will start working on the assignment in class today.
+- L 12.1: **Assignment 4** is on Canvas. <font color=red>**Deadline Friday, May 6**</font>. We will start working on the assignment in class today.
 
 - L 12.2: Lab on the assignment. Instructions for [using Docker](https://hackmd.io/@alexhkurz/rkUkHeHrc).
+
+- L 13.1: Lab on the assignment.
+
+- L 13.2: Bitcoin and Smart Contracts. Link to my notes on Slack.
+
+# Coming Up
+
+- L 14.1/2: Designing a domain specific language for smart contracts.
 
