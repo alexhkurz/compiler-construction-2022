@@ -4,7 +4,7 @@
 
 **Deadlines:** 
 - Sunday March 20, by sending me an email with a link to the pdf of your report containing a description of your project. (I am happy to extend the deadline by one week, but I don't want to force you to work over the spring break.)
-- Final deadline at the end of the exam's week.
+- Final deadline at the end of the exam's week **Friday, May 20**.
 
 Also get in touch and show me your work between the two deadlines.
 
