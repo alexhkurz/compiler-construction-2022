@@ -57,11 +57,11 @@ For us there is another one, namely that type checking can be seen as "interpret
 
 - L6.2:  Working towards Assignment 2, the [Type Checker for CPP](http://www.grammaticalframework.org/ipl-book/assignments/assignment2/assignment2.html) (a template file and detailed instructions will be in Canvas). For the theory, the main source is Chapter 4 of the book. *Homework:* Read Chapter 4.1 to 4.3 of [IPL](http://www.cse.chalmers.se/edu/year/2012/course/DAT150/lectures/plt-book.pdf). 
 
-- L7.1: We started with some remarks on the [the project](project.md). Then we looked at the template file for the type checker available on Canvas. We also covered Sections 4.4-4.5 of the book. 
+- L7.1: We started with some remarks on the [the project](project.md) (Prototype description due by <font color=red>**March 20**</font>. Then we looked at the template file for the type checker available on Canvas. We also covered Sections 4.4-4.5 of the book. 
 
 - L7.2: Sections 4.6-4.8 from the book. Read these sections carefully and prepare questions for the next lecture. (Sections 4.9-4.11 are optional as this has been implemented in the template files.)
 
-- L8.1: We went through what needs to be done for the First Deadline **(Thu, Mar 31)** for Assignment 2. As I said, feel free to use github copilot. Second Deadline will be **(Fri, April 8)**.
+- L8.1: We went through what needs to be done for the First Deadline **(Thu, Mar 31)** for Assignment 2. As I said, feel free to use github copilot. Second Deadline for Assignment 2 will be Friday <font color=red>**April 8**</font>.
 
 - L8.2: Special session with Sam Balco.
 
@@ -69,7 +69,7 @@ For us there is another one, namely that type checking can be seen as "interpret
 
 - L9.1: Chapter 5 of [IPL](http://www.cse.chalmers.se/edu/year/2012/course/DAT150/lectures/plt-book.pdf). Homework until Thursday: Read Sections 5.1-2.
 
-- L9.2: Continued with Chapter 5. Assessed [homework for the report](https://hackmd.io/@alexhkurz/SkZELd3X5), see also Lecture 10.1. Homework until next lecture: Read Chapter 5.3.
+- L9.2: Continued with Chapter 5. Assessed [homework for the report](https://hackmd.io/@alexhkurz/SkZELd3X5): Report Week 10 Deadline  <font color=red>**April 17**</font>, see also Lecture 10.1. Homework until next lecture: Read Chapter 5.3.
 
 - **Assignment 3** out. Instructions and template files are on Canvas. First deadline April 17, second deadline April 24.
 
@@ -84,7 +84,7 @@ For us there is another one, namely that type checking can be seen as "interpret
 
 - L 11.2: [Compiling C to Webassembly pen-and-paper](https://github.com/alexhkurz/compiler-construction-2022/blob/master/lecture-code-generation-2.md).
 
-- L 12.1: **Assignment 4** is on Canvas. <font color=red>**Deadline Friday, May 6**</font>. We will start working on the assignment in class today.
+- L 12.1: **Assignment 4** is on Canvas. Deadline Friday <font color=red>May 6</font>. We will start working on the assignment in class today.
 
 - L 12.2: Lab on the assignment. Instructions for [using Docker](https://hackmd.io/@alexhkurz/rkUkHeHrc).
 
@@ -92,7 +92,7 @@ For us there is another one, namely that type checking can be seen as "interpret
 
 - L 13.2: Bitcoin and Smart Contracts. Link to my notes on Slack.
 
-# Coming Up
+- L 14.1: Designing a domain specific language for smart contracts.
 
-- L 14.1/2: Designing a domain specific language for smart contracts.
+- L 14.2: Working on the Final Report, Deadline Friday <font color=red>May 20</font>.
 
